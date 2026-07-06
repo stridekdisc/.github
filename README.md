@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/stridekdisc/.github/blob/main/stride-logo.png?raw=true" alt="STRIDE Logo" height="170" />
+</p>
+
 <div align="center">
 
 # STRIDE
